@@ -5,6 +5,7 @@ An app for collecting and analysing journal entries over time and determing the 
 ## Tech Stack
 
 - [NextJs](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Clerk](https://clerk.com/)
 - [NeonDB](https://neon.tech/)
 - [Postgres](https://www.postgresql.org/)
