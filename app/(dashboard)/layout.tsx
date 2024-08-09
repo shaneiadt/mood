@@ -3,7 +3,7 @@ import { UserButton } from '@clerk/nextjs'
 const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <div className="h-screen w-screen relative flex">
-      <aside className="bg-gray-800 text-white w-64 h-full">
+      <aside className="bg-gray-800 text-white w-64 h-full h-screen">
         <span className="border-black/20 border-b-2 text-2xl p-4 block text-center">
           Mood
         </span>

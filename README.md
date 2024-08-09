@@ -13,3 +13,4 @@ An app for collecting and analysing journal entries over time and determing the 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vercel](https://vercel.com/)
 - [OpenAI](https://openai.com/)
+- [LangChain](https://js.langchain.com/)
